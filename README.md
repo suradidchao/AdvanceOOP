@@ -2,7 +2,7 @@
 This repository contains lab from courses in Advance OOP
 
 ## Contents
-- [Lab03](lab03)
+- [Lab03](#lab03)
 
 ### Lab03
 This lab is about creating a course management system and student
