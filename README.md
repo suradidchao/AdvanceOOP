@@ -8,7 +8,8 @@ This repository contains lab from courses in Advance OOP
 This lab is about creating a course management system and student
 Classes to implement are:
 - Course
-- Stuent
+- Student
+
 Addition self-implemented classe:
 - StudentScore
 
